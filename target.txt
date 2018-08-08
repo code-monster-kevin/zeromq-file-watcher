@@ -1,0 +1,3 @@
+A file that's being watched
+Added a new line
+add one more line
